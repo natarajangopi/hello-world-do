@@ -1,4 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Masterminds Technologies </h2>
-<h2> Glad to see you here </h2>
-<h3>JSP Updated twice</h3>
+<h1> Hello Everyone, Welcome to Simple DevOps Project !!   </h1>
+<h2> Automation of Git Jenkins Maven Tomcat </h2>
